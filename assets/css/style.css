@@ -1,0 +1,251 @@
+* 
+{
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 2;
+}
+
+ul li
+{
+    list-style-type: none;
+    display: inline;
+    border-right: 2px solid #cccccc;
+}
+
+li:last-child {
+    border-right: 0px;
+}
+
+.header 
+{
+    height: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    background: #ffffff;
+}
+
+.header-box
+{
+    height: 35px;
+    width: 150px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    display: inline-block;
+}
+
+.header-right
+{
+    float: right;
+    margin-top: 20px;
+}
+
+.hd 
+{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container
+{
+    clear: both;
+    background-image: url("../images/light-grey-terrazzo.png");
+    background-color: #dddddd;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #cccccc;
+    border-bottom-style: solid;
+    border-bottom-color: #4aaaa5;
+    border-bottom-width: 5px;
+}
+
+.nav
+{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: #4aaaa5;
+    padding: 15px 0px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #cccccc;
+}
+
+.content 
+{
+    background: #ffffff;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 919px;
+    padding: 0px 20px 20px;
+    border: 1px #dddddd solid;
+}
+
+span
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 22px;
+}
+
+.form
+{
+    margin-top: 10px;
+}
+
+.fields
+{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+.submit
+{
+    height: 30px;
+    width: 60px;
+    background: #4aaaa5;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.blocks
+{
+    position: relative;
+}
+
+.image
+{
+    width: 200px;
+    height: 150px;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.side
+{
+    width: 700px;
+    height: 150px;
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+#row
+{
+    width: 919px;
+    height: 150px;
+    bottom: 0;
+    margin-top: 30px;
+}
+
+.square_odd 
+{
+    display: inline-block;
+    width: 23%;
+    height: 150px;
+    margin-right: 35px;
+    background-color: #666666;
+}
+
+.square_even 
+{
+    background-color: orange;
+    display: inline-block;
+    width: 23%;
+    height: 150px;
+}
+
+.banner1-1
+{
+    background-color: #4aaaa5;
+    width: 211px;
+    height: 40px;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 292px;
+}
+
+.banner1-2
+{
+    background-color: #4aaaa5;
+    width: 211px;
+    height: 40px;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 292px;
+    margin-left: 250px;
+}
+
+.banner2-1
+{
+    background-color: #4aaaa5;
+    width: 211px;
+    height: 40px;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 472px;
+}
+
+.banner2-2
+{
+    background-color: #4aaaa5;
+    width: 211px;
+    height: 40px;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 472px;
+    margin-left: 250px;
+}
+
+.banner3-1
+{
+    background-color: #4aaaa5;
+    width: 211px;
+    height: 40px;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 652px;
+}
+
+.banner-label
+{
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    line-height: 40px;
+}
+
+footer
+{
+    background: #666666;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 50px;
+    position: relative;
+}
+
+.copyright 
+{
+    margin: auto;
+    width: 7.5%;
+    color: #ffffff;
+    font-size: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 48%;
+}
