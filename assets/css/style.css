@@ -103,6 +103,10 @@ li:last-child {
     margin-bottom: 10px;
 }
 
+input {
+    width: 99%;
+}
+
 .submit
 {
     height: 30px;
