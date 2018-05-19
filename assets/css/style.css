@@ -28,7 +28,7 @@ li:last-child {
 
 .header-box
 {
-    height: 35px;
+    height: 30px;
     width: 150px;
     background: #4aaaa5;
     color: #ffffff;
@@ -90,12 +90,6 @@ li:last-child {
     max-width: 919px;
     padding: 0px 20px 20px;
     border: 1px #dddddd solid;
-}
-
-span
-{
-    font-family: "Arial Black", Gadget, sans-serif;
-    font-size: 22px;
 }
 
 .form
@@ -189,6 +183,7 @@ span
     margin-left: 250px;
 }
 
+
 .banner2-1
 {
     background-color: #4aaaa5;
@@ -226,8 +221,9 @@ span
 .banner-label
 {
     color: #ffffff;
-    font-family: 'Georgia', Times, Times New Roman, serif;
     line-height: 40px;
+    font-size: 15px;
+    font-style: italic;
 }
 
 footer
@@ -241,6 +237,7 @@ footer
 
 .copyright 
 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin: auto;
     width: 7.5%;
     color: #ffffff;
